@@ -14,9 +14,13 @@
 
 ## 🌟 Project Overview
 
-**Budget Buddy** is a next-generation personal finance tracker designed to give you complete control over your wealth. Powered by cutting-edge AI, it eliminates manual data entry by extracting transaction details directly from your receipts. With real-time budget alerts, comprehensive analytics, and seamless account synchronization, managing your money has never been this intuitive.
+Budget Buddy is a modern AI-powered personal finance management platform designed to help users track expenses, manage budgets, analyze spending patterns, and improve financial planning. The application automates expense tracking using AI-powered receipt scanning, where users can upload receipts and extract transaction details instantly using Gemini AI. It also provides smart budget alerts, recurring transaction management, interactive analytics dashboards, and secure authentication for a seamless finance management experience.
 
-Whether you're tracking daily expenses, monitoring long-term savings, or analyzing spending patterns, Budget Buddy provides a premium, startup-grade experience tailored to your financial goals.
+The project is developed using Next.js 15, React 19, Tailwind CSS, Shadcn UI, Supabase PostgreSQL, Prisma ORM, Clerk Authentication, Google Gemini AI, Node.js, and Resend API. The platform delivers a premium startup-grade user experience with responsive dashboards, real-time analytics, and scalable cloud-based architecture.
+
+**GitHub Repository Link:** [Budget Buddy GitHub Repository](https://github.com/Akshayshelke86/BudgetBuddy.git?utm_source=chatgpt.com)  
+**Live Project Link:** [Budget Buddy Live Demo](https://budget-buddy-hazel-one.vercel.app/?utm_source=chatgpt.com)  
+**Project Demo Video Drive Link:** [Budget Buddy Demo Video](https://drive.google.com/file/d/13rox6whyDbsZd_nDs6WCCNcL1FvicxXx/view?usp=sharing&utm_source=chatgpt.com)
 
 ---
 
@@ -95,8 +99,8 @@ Follow these steps to get Budget Buddy running on your local machine.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/budget-buddy.git
-cd budget-buddy
+git clone https://github.com/Akshayshelke86/BudgetBuddy.git
+cd BudgetBuddy
 ```
 
 ### 3. Install Dependencies
